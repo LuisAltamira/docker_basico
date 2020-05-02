@@ -4,8 +4,7 @@
 Es un lugar donde podemos encontrar imágenes
 También podemos compartir nuestra imágenes 
 
-## Comandos de Docker
 
-### Versión de Docker
-Sólo nos muestra la versión de Docker
-``docker version``
+## Contenido
+1. [Imágenes y contenedores](1.md)
+2. [Construyendo Imágenes con el Dockerfile](2.md)

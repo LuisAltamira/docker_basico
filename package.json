@@ -1,0 +1,22 @@
+{
+  "name": "documentation",
+  "version": "1.0.0",
+  "description": "## Docker Hub Es un lugar donde podemos encontrar imágenes También podemos compartir nuestra imágenes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisAltamira/docker_basico.git"
+  },
+  "author": "Luis Altamira <luisaltamirag@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisAltamira/docker_basico/issues"
+  },
+  "homepage": "https://github.com/LuisAltamira/docker_basico#readme",
+  "dependencies": {
+    "dateformat": "^3.0.3"
+  }
+}
